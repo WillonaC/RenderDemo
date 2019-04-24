@@ -41,10 +41,10 @@ private:
 	int WindowHeight = 600 * 2;
 
 	//// Obj Model 全局变量
-	char* ObjFilePath = "E:/RenderDemo/asset/img/model_mesh/";
-	std::string objFileName = "E:/RenderDemo/asset/model/model_mesh/";
+	char* ObjFilePath = "F:/[A]project/RenderDemo/asset/img/model_mesh/";
+	std::string objFileName = "F:/[A]project/RenderDemo/asset/model/model_mesh/";
 	std::string modelName = "2_agi_mask.obj";
-	std::string shaderFilePath = "E:/RenderDemo/shader/";
+	std::string shaderFilePath = "F:/[A]project/RenderDemo/shader/";
 
 	//// reference views
 	const int inter = 1;

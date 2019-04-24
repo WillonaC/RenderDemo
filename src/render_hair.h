@@ -37,11 +37,11 @@ private:
 	int WindowHeight = 800;
 
 	//// Obj Model 全局变量
-	char* ObjFilePath = "E:/RenderDemo/asset/img/model_hair/";
-	std::string objFileName = "E:/RenderDemo/asset/model/model_hair/";
+	char* ObjFilePath = "F:/[A]project/RenderDemo/asset/img/model_hair/";
+	std::string objFileName = "F:/[A]project/RenderDemo/asset/model/model_hair/";
 	std::string modelName = "head.obj";
 	std::string indFileName = "hair.ind";
-	std::string shaderFilePath = "E:/RenderDemo/shader/";
+	std::string shaderFilePath = "F:/[A]project/RenderDemo/shader/";
 
 	//// reference views
 	const int inter = 1;
