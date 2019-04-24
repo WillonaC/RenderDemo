@@ -1,1 +1,2 @@
-# RenderingDemo
+# RenderDemo
+Render hair model
